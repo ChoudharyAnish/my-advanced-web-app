@@ -1,0 +1,14 @@
+{
+  "name": "my-advanced-web-app",
+  "version": "1.0.0",
+  "description": "Advanced web app for Jenkins learning",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3",
+    "morgan": "^1.10.0"
+  }
+}
